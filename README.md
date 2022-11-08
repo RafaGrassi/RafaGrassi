@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaGrassi
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java Script, HTML, CSS and MySQL
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning Java, JSP, Spring Boot, Java Script, HTML, CSS and MySQL
 - 📫 How to reach me: rafa_grassi@live.com
 
 <!---
